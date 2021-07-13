@@ -10,3 +10,11 @@ body{
     margin-top: 80px;
     padding: 30px
 }
+
+select{
+    margin-bottom: 30px
+}
+
+label{
+    font-weight: 400
+}
