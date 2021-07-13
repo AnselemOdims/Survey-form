@@ -1,0 +1,12 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    background: lightgrey
+}
+
+.card{
+    width: 60%;
+    margin-top: 80px;
+    padding: 30px
+}
